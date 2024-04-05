@@ -74,6 +74,8 @@ GitHub Actions automates the process of continuous integration (CI) and deployme
 Documentation:
 GitHub provides robust documentation features, including wikis and README files, to document project details, guidelines, and best practices. The README file serves as the project's front page, providing an overview of the app, installation instructions, usage guidelines, and contribution guidelines. Additionally, GitHub Pages allows developers to host static websites directly from the repository, making it easy to publish project documentation and showcase project updates to stakeholders and users.
 
+Video link https://www.loom.com/share/1c29c8f5cfef4c4388a5e78418debaa8
+
 Conclusion
 
 In conclusion, GitHub and GitHub Actions are indispensable tools in the development and deployment of the Historical Age Matcher app. From version control and code collaboration to issue tracking and continuous integration, these platforms empower developers to work efficiently, collaborate effectively, and deliver high-quality software. By leveraging GitHub and GitHub Actions, the development team ensures code reliability, project transparency, and workflow automation, ultimately contributing to the success of the app and the satisfaction of its users.
